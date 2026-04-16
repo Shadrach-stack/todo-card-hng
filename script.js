@@ -1,4 +1,3 @@
-alert("JS LOADED");
 console.log("JS LOADED");
 
 /* =========================
