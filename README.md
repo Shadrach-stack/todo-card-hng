@@ -1,12 +1,14 @@
 # 📝 Todo Card - HNG Stage 0 Project
 
 ## 📌 Overview
+
 This is a responsive and interactive Todo Card built as part of the HNG Stage 0 Frontend Task.  
 It demonstrates core frontend development skills using HTML, CSS, and JavaScript.
 
 ---
 
 ## 🚀 Features
+
 - Interactive todo task card UI
 - Mark task as complete (checkbox toggle)
 - Live status update (Pending → Done)
@@ -19,6 +21,7 @@ It demonstrates core frontend development skills using HTML, CSS, and JavaScript
 ---
 
 ## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
@@ -26,22 +29,34 @@ It demonstrates core frontend development skills using HTML, CSS, and JavaScript
 ---
 
 ## 📂 Project Structure
+
 ---
 
 ## 🌍 Live Demo
+
 [Click here to view live project](https://steady-cranachan-56f075.netlify.app)
 
 ---
 
 ## 📦 GitHub Repository
+
 https://github.com/Shadrach-stack/todo-card-hng
 
 ---
 
 ## 🎯 Task Objective
+
 To build a clean, testable, and interactive Todo Card component demonstrating DOM manipulation, state handling, and basic frontend logic.
 
 ---
 
+## ⚠️ Known Limitations
+
+- Time calculation updates correctly but may display inconsistent overdue values due to date parsing differences across environments.
+- This will be improved in future iterations.
+
+---
+
 ## 👨‍💻 Author
+
 Built by Shadrach-stack as part of the HNG Frontend Stage 0 task.
