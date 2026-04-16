@@ -16,6 +16,14 @@ body {
   color: red;
   font-weight: bold;
 }
+.priority.medium {
+  color: orange;
+  font-weight: 600;
+}
+.priority.low {
+  color: green;
+  font-weight: 500;
+}
 
 ul {
   display: flex;
@@ -35,4 +43,13 @@ button {
   margin-right: 10px;
   margin-top: 10px;
   cursor: pointer;
+}
+#desc-box {
+  max-height: 60px;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+#desc-box.expanded {
+  max-height: 500px;
 }
